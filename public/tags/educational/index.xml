@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educational | Leo (Miao) You Portfolio</title>
+    <link>/tags/educational/</link>
+      <atom:link href="/tags/educational/index.xml" rel="self" type="application/rss+xml" />
+    <description>Educational</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Educational</title>
+      <link>/tags/educational/</link>
+    </image>
+    
+    <item>
+      <title>Crime Data Analysis</title>
+      <link>/project/crime-data-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/crime-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitbit Data Visualization</title>
+      <link>/project/fitbit-activity-dashboard/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/fitbit-activity-dashboard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
