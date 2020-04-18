@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: CVR Contact Rate Analysis
 tags:
-- Professional
+- Work
 title: Contact Rate Analysis
 ---

@@ -6,6 +6,7 @@ image:
   focal_point: Smart
 summary: CVR Physician Survey
 tags:
-- Professional
+- Work
+- R Studio
 title: Physician Survey
 ---

@@ -26,12 +26,20 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Professional"
-    tag = "Professional"
+    name = "Work"
+    tag = "Work"
   
   [[content.filter_button]]
-    name = "Educational"
-    tag = "Educational"
+    name = "Education"
+    tag = "Education"
+
+  [[content.filter_button]]
+    name = "R Studio"
+    tag = "R Studio"
+
+  [[content.filter_button]]
+    name = "Python"
+    tag = "Python"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
