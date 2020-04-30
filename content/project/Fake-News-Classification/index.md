@@ -4,7 +4,7 @@ external_link: https://leo-you.github.io/Fake_News_Classification/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: Build a classifier to identify fake news
+summary: Build a classifier to identify fake news from real news
 tags:
 - Educational
 - Python
