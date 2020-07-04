@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Data Visualization and Regression Analysis on US Accident data
 tags:
-- Education
+- Personal
 - Python
 title: US Accident Data Analysis
 ---

@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Build a classifier to identify fake news from real news
 tags:
-- Educational
+- Personal
 - Python
 title: Fake News Classification
 ---

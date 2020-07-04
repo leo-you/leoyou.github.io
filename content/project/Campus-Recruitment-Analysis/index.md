@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Campus Recruitment Data Classification and Regression Analysis
 tags:
-- Educational
+- Personal
 - Python
 title: Campus Recruitment Analysis
 ---

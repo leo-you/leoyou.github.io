@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Analysis on Violent/Non-Violent Crimes in USA
 tags:
-- Educational
+- Personal
 - R Studio
 title: Crime Data Analysis
 ---

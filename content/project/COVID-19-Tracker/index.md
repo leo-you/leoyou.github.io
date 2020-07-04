@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: US COVID-19 Tracker App
 tags:
-- Educational
+- Personal
 - R Studio
 title: COVID-19 Tracker
 ---

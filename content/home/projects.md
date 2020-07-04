@@ -30,8 +30,8 @@ subtitle = ""
     tag = "Work"
   
   [[content.filter_button]]
-    name = "Education"
-    tag = "Education"
+    name = "Personal"
+    tag = "Personal"
 
   [[content.filter_button]]
     name = "R Studio"

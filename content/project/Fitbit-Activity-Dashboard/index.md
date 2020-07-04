@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Data Visualization using health data from fitbit
 tags:
-- Education
+- Personal
 - R Studio
 title: Fitbit Data Visualization
 ---
