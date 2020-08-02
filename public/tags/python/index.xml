@@ -7,10 +7,18 @@
     <description>Python</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hue859adb4730eaced57b5bfbda835be89_5261_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Python</title>
       <link>/tags/python/</link>
     </image>
+    
+    <item>
+      <title>2019 Airbnb NYC availability prediction</title>
+      <link>/project/nyc-airbnb-prediction/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/nyc-airbnb-prediction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Campus Recruitment Analysis</title>
