@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Sales Analyst"
+  title = "Analyst"
   company = "Center for Vein Restoration"
   company_url = "https://www.centerforvein.com"
   location = "Greenbelt, MD, 20770"
@@ -26,21 +26,20 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  * Worked closely with regional sales directors to effectively lead Sales Operational, Data Reporting and Analysis for CVR
-  * Approached pro-actively in the creation and delivery of sales analysis reports for problem-solving and decision-making
-  * Prepared trend analysis reports to identify underperforming centers and deliver suggestion for tactical planning
-  * Collaborated with IT partners to correct all report discrepancies and ensures accuracy
-  * Cut new territories to ensure enough accounts to support a four-week call cycle using marketing dynamics and geographic info
-  * Generated standard or custom reports summarizing business, financial, or marketing activity data for review by executives
-  * Collect and prepared business intelligence data from available online open sources or purchased sources for marketing analysis
-  * Created business intelligence tools or systems, including design of spreadsheets, dashboards and predictive models
-  * Performed ETL process through SQL queries and automated jobs using SQL agent that reads/writes to/from database and securely transfer to/from the external vendor such as Signature Forum, Xamplifer etc. using IP switch
-  * Created SSRS reports, wrote MDX queries to generate OLAP cube reports using SSAS to create multi-dimensional dataset
-  * Analyzed and presented data summarizing sales, financial, or marketing activity for review using statistical model in R Studio
-  * Built variable commission programs for sales liaisons that optimize cost per unit and distributed utilized Excel VBA/Macro
-  * Performed competitor analysis using various statistical approaches such as T-test, ANOVA test, Conjoint Analysis and regression
+  * Worked closely with IT, Operation, Sales and Finance departments and took a lead role in providing Data Reporting and Analysis
+  * Approached pro-actively in the creation and delivery of reports and dashboards for problem solving and decision making
+  * Performed ETL process through SQL queries and automated jobs using SQL agent that reads/writes to/from relational database and securely transfer to/from the external vendor such as Signature Forum, Xamplifer etc. using IP switch
+  * Created SSRS reports, wrote MDX queries to generate OLAP cube reports and enable team to gain insights on various aspect of business such as patient cancellation and insurance billing collection
+  * Identified areas where operational efficiency can be improved through automated jobs using SQL Store Procedures and views
+  * Conducted root cause analysis on data discrepancies and technical issues on CRM platform and patient EHR system
+  * Analyzed marketing campaign and survey results using statistical analysis in R Studio and presented in Rmarkdown format
+  * Performed routine and ad-hoc analysis using machine learning approaches such as regression, classification and clustering in R Studio and Python to improve lead quality and outbound call efficiency
+  *Implemented advanced statistical and machine learning techniques to develop algorithms used for acquisition site selection
   * Designed data visualization and interactive dashboard in Power BI using multi-dimensional model and DAX functions
-  
+  * Prepared trend analysis reports to identify underperforming centers and deliver suggestion for tactical planning
+  * Cut new territories to ensure enough accounts to support a four-week call cycle using marketing dynamics and geographic info
+  * Collect and prepared business intelligence data from available online open sources or purchased sources for marketing analysis
+  * Built variable commission programs for sales liaisons that optimize cost per unit and distributed utilized Excel VBA/Macro  
   """
 
 [[experience]]
