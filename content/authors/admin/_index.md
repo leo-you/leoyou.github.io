@@ -25,7 +25,7 @@ name: Leo (Miao) You
 organizations:
 - name: Center for Vein Restoration
   url: "https://www.centerforvein.com"
-role: Sales Analyst
+role: Analyst
 social:
 - icon: envelope
   icon_pack: fas
