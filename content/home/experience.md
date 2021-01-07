@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Analyst"
+  title = "Data Analyst"
   company = "Center for Vein Restoration"
   company_url = "https://www.centerforvein.com"
   location = "Greenbelt, MD, 20770"
@@ -32,13 +32,11 @@ date_format = "Jan 2006"
   * Created SSRS reports, wrote MDX queries to generate OLAP cube reports and enable team to gain insights on various aspect of business such as patient cancellation and insurance billing collection
   * Identified areas where operational efficiency can be improved through automated jobs using SQL Store Procedures and views
   * Conducted root cause analysis on data discrepancies and technical issues on CRM platform and patient EHR system
-  * Analyzed marketing campaign and survey results using statistical analysis in R Studio and presented in Rmarkdown format
-  * Performed routine and ad-hoc analysis using machine learning approaches such as regression, classification and clustering in R Studio and Python to improve lead quality and outbound call efficiency
-  *Implemented advanced statistical and machine learning techniques to develop algorithms used for acquisition site selection
-  * Designed data visualization and interactive dashboard in Power BI using multi-dimensional model and DAX functions
+  * Visualized survey results for over 200 physicians in R Studio using ggplot2, plotly and leaflet, analyzed Likert scale questions using Proportional Odds Regression model in R to identify key factors in driving referral business, presented the results in Rmarkdown format
+  * Built functional Logistic regression model in R Studio to identify four significant predictors that impact appointment booking rate, improved model accuracy from 89% to 95% by using techniques such as Stepwise Selection and Grid Search
+  * Used Sci-Kit Learn in Python to identify two acquisition sites that brought in over 500 new patients first year and 1.5 million in revenue by developing K Means clustering and Decision Tree algorithms, predicted potential patient volumes within 95% confidence interval
+  * Designed interactive dashboard to track daily outbound recovery progress in Power BI using multi-dimensional model and DAX functions and improved outbound recovery rate by 20%
   * Prepared trend analysis reports to identify underperforming centers and deliver suggestion for tactical planning
-  * Cut new territories to ensure enough accounts to support a four-week call cycle using marketing dynamics and geographic info
-  * Collect and prepared business intelligence data from available online open sources or purchased sources for marketing analysis
   * Built variable commission programs for sales liaisons that optimize cost per unit and distributed utilized Excel VBA/Macro  
   """
 
