@@ -37,5 +37,15 @@ date_format = "Jan 2006"
   date_start = "2015-10-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Microsoft"
+  organization_url = ""
+  title = "Microsoft Technology Associate: Database Certification"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-11-01"
+  date_end = ""
+  description = ""
 
 +++

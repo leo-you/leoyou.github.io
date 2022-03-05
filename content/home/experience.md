@@ -17,13 +17,31 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Data Scientist"
+  company = "Circle K"
+  company_url = "https://www.circlek.com"
+  location = "Tempe, AZ, 85282"
+  date_start = "2021-10-04"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  * Led a team of 4 data scientists in developing non-linear optimization model with complex objective function and constraints in R using NLOPTR framework to provide price recommendations to business units
+  * Implemented localized pricing initiatives on 9 business units with over 3000+ stores and 20k+ items from data preparation, elasticity modeling, price optimization to recommend optimal price to key stakeholders, generating 1.2M+ annual margin uplift per business unit
+  * Built site selection tools using advanced ML models (Regularization, Tree-Based, XGBoost, etc.) based on 30+ features, automated model selection from 15+ models using Databricks AutoML, increasing model performance by 15% while reducing labor hour by 70%
+  * Designed automated ETL pipelines using PySpark and Databricks delta tables to extract millions rows of data from multiple sources and transaction logs
+  * Modularized and scaled up legacy code in Python by encapsulating codes into classes and functions, reduced average runtime by 80%
+  * Served as SME and code owner in optimization models to support 20+ data scientists during the price refresh, mentoring onboarding data scientists to quickly pick up tools, platforms and data science projects by holding multiple knowledge transfer sessions.
+  """
+
 [[experience]]
   title = "Data Analyst"
   company = "Center for Vein Restoration"
   company_url = "https://www.centerforvein.com"
   location = "Greenbelt, MD, 20770"
   date_start = "2016-01-11"
-  date_end = ""
+  date_end = "2021-10-03"
   description = """
   Responsibilities include:
   * Worked closely with IT, Operation, Sales and Finance departments and took a lead role in providing Data Reporting and Analysis
