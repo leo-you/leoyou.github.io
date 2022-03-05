@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "7474 Greenway Center Drive", city = "Greenbelt", region = "MD", postcode = "20770", country = "United States", country_code = "US"}
+address = {street = "1130 W Warner Rd", city = "Tempe", region = "AZ", postcode = "85284", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.991380", longitude = "-76.881680"}
+coordinates = {latitude = "33.336260", longitude = "-111.956350"}
 
 # Directions for visitors to locate you.
 directions = ""
