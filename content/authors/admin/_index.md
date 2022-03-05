@@ -47,7 +47,8 @@ user_groups:
 - Visitors
 ---
 
-Leo (Miao) You currently an Analyst at Center for Vein Restoration - the largest physician owned vein clinic treating varicose veins and venous insufficiency. As a graduate from University of Maryland in Marketing Analytics and Harrisburg University of Science and Technology in Analytics, Leo (Miao) You's professional passion are data analysis and visualization, statistical modelling, data science and machine learning.
+Leo (Miao) You currently an Senior Data Scientist at Circle K. Prior to Circle K, he's been working as a data analyst for over 5 years at Center for Vein Restoration - the nation's largest physician owned vein clinic treating varicose veins and venous insufficiency. As a graduate from University of Maryland in Marketing Analytics and Harrisburg University of Science and Technology in Analytics, Leo (Miao) You's professional passion are data analysis and visualization, statistical modelling, data science and machine learning. As a highly motivated Data Scientist, Leo has 6+ years experience in Data Analysis and Machine Learning, 4+ years experience in Marketing Analysis and 1+ year experience in pricing optimization and data-driven merchandising
+
 
 Technical Skills
 - Programming: SAS, SQL, R Studio, SPSS, Python, Hyperion, MS Visual Studio, Jupyter Notebook
